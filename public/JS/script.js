@@ -29,3 +29,14 @@ taxSwitch.addEventListener("click", () => {
         }
     }
 });
+
+
+let navCollapse = document.getElementById("navbarNavAltMarkup");
+let navbar = document.getElementsByClassName("collapse");
+navCollapse.addEventListener("click", () => {
+  if (navbar.style.height === "50rem") {
+    navbar.style.height = "5rem";
+  } else {
+    navbar.style.height = "50rem";
+  }
+}); 
