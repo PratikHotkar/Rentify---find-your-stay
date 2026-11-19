@@ -1,4 +1,4 @@
-# Wanderlust — Find your stay
+# Rentify — Find your stay
 
 A full-stack travel listing platform where users can browse, add, edit, and delete stays with complete CRUD functionality, integrated maps, and a review system — secured with authentication and authorization.
 
@@ -24,8 +24,8 @@ A full-stack travel listing platform where users can browse, add, edit, and dele
 
 1. Clone the repository
    ```
-    git clone https://github.com/PratikHotkar/Wanderlust---find-your-stay.git
-    cd Wanderlust---find-your-stay
+    git clone https://github.com/PratikHotkar/Rentify---find-your-stay.git
+    cd Rentify---find-your-stay
    ```
 2. Install dependencies
    ```
@@ -47,7 +47,7 @@ A full-stack travel listing platform where users can browse, add, edit, and dele
 5. Visit `http://localhost:8080` (or your configured port) in your browser
 
 ## Live Demo
-[Wanderlust](https://wanderlust-l7ug.onrender.com/listings)
+[Rentify](https://wanderlust-l7ug.onrender.com/listings)
 > Note: Hosted on Render's free tier — the site may take 20-30 seconds to load on first visit due to server cold start.
 
 ## Author
